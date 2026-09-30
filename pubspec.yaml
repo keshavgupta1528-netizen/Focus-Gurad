@@ -1,0 +1,15 @@
+name: focusguard
+description: FocusGuard - beat social media addiction and never forget a task.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.5.1
+
+flutter:
+  uses-material-design: true
